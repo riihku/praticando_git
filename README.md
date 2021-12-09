@@ -1,3 +1,8 @@
+# Praticando o Git
+
+## by Henrique 'riku' Hashimoto
+
+
 Crie um repositório do Git para compartilhar aquilo que você aprendeu sobre Linux e Git, os conteúdos que vimos ao longo deste módulo.
 
 Para isso, crie uma pasta com o nome `linux-e-git`. Em seguida, você deve criar um arquivo referente a cada uma das aulas que tivemos e comentar sobre quais pontos você achou mais interessante e mais agregaram ao seu conhecimento. As aulas que tivemos, em ordem, são elencadas abaixo:
