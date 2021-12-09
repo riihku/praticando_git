@@ -20,8 +20,7 @@ Home ->> Onde estão todos os outros usuários que não tenham o GOD MODE de sup
 
 ROOT ->> Onde você tem todas as permissões
 
-	comando 'super su' para entrar como root :)
+        comando 'super su' para entrar como root :)
 
-	Para comandos individuais (sem precisar estar no GOD MODE), usamos o prefixo de 'sudo' antes de outros comandos.
-		' sudo apt install x '
-
+        Para comandos individuais (sem precisar estar no GOD MODE), usamos o prefixo de 'sudo' antes de outros comandos.
+                ' sudo apt install x '
