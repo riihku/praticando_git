@@ -1,0 +1,19 @@
+Aula 1 - Dia 29/11/21
+
+Aula introdutória sobre a história do Linux, seu criador, seu desenvolvimento e as motivações que o levaram a desenvolver esse Kernel. Sim, kernel, e não um Sistema Operacional, como muitos pensam.
+
+Para ilustrar o que seria um Kernel, levantou-se o ponto de um carro. Pense no Kernel como a corrente elétrica que permeia e permite o funcionamento dos dispositivos do carro. No caso do computador, o kernel permite a comunicação entre o software e o hardware.
+
+
+Para finalizar o contexto histórico, nos foi apresentado o conceito entre ser um software gratuito e ainda assim ganhar $$, sendo tudo isso permitido com investimento de seus usuários e de empresas que usam o Linux para o desenvolvimento de seus próprios softwares.
+
+Dito isso, passamos por algumas definições clássicas do Kernel Linux e de distros (distribuições) que se utilizam dele.
+
+
+Ubuntu : Um dos sistemas operacionais (distros) mais famosos que fazem uso do Linux
+
+SUDO SU : O grande coringa dos comandos do linux, entrando no famoso GOD MODE, onde tem permissões para realizar o que desejar (e o que não desejar também!). Bom saber o que está fazendo quando estiver nesse modo
+
+GERENCIADOR DE PACOTES : cada distro acaba tendo seu próprio gerenciador de pacotes. Como usuário do Ubuntu para o aprendizado, usamos o 'apt'. Poderíamos usar alguns universais como o snap, flatpak e o AppImage, mas isso traria complexidade.
+
+

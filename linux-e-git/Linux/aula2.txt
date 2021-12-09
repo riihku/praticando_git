@@ -1,0 +1,27 @@
+## Aula 2 - Dia 30/11/21
+
+Pós-apresentações do dia inicial de Linux (o que já foi um grande desafio, por nunca ter tido contato), entramos um pouco mais a fundo em relação aos comandos e termos usados no terminal do Linux.
+
+
+- Aprendizado sobre o BASH (cmd)
+
+- bin : onde os arquivos ficam
+
+- dev : sistemas, arquivos e dados do HD
+
+- media : onde ficam os arquivos do tipo de ḿídias (usb, cdrom, etc...)
+
+- etc : pasta de configurações gerais de sistemas
+
+
+HOME VS ROOT
+
+Home ->> Onde estão todos os outros usuários que não tenham o GOD MODE de super user.
+
+ROOT ->> Onde você tem todas as permissões
+
+	comando 'super su' para entrar como root :)
+
+	Para comandos individuais (sem precisar estar no GOD MODE), usamos o prefixo de 'sudo' antes de outros comandos.
+		' sudo apt install x '
+
