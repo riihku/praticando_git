@@ -1,4 +1,4 @@
-Aula 1 - Dia 29/11/21
+## Aula 1 - Dia 29/11/21
 
 Aula introdutória sobre a história do Linux, seu criador, seu desenvolvimento e as motivações que o levaram a desenvolver esse Kernel. Sim, kernel, e não um Sistema Operacional, como muitos pensam.
 
@@ -15,5 +15,6 @@ Ubuntu : Um dos sistemas operacionais (distros) mais famosos que fazem uso do Li
 SUDO SU : O grande coringa dos comandos do linux, entrando no famoso GOD MODE, onde tem permissões para realizar o que desejar (e o que não desejar também!). Bom saber o que está fazendo quando estiver nesse modo
 
 GERENCIADOR DE PACOTES : cada distro acaba tendo seu próprio gerenciador de pacotes. Como usuário do Ubuntu para o aprendizado, usamos o 'apt'. Poderíamos usar alguns universais como o snap, flatpak e o AppImage, mas isso traria complexidade.
+
 
 
