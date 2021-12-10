@@ -1,0 +1,17 @@
+## Aula 3 - 01/12/21
+
+Novamente, passamos por uma introdução em relação ao Software, que acreditem se quiser, também acabou sendo criado por Linus Torvalds, o criador do Linux.
+
+Linus criou o Git com o objetivo de gerenciar as versões do projeto, seja de novas adições quanto alterações.
+
+O Git :
+
+- É um sistema de controle de versões
+
+- Permite desenvolvimento colaborativo (muito relacionado ao Software livre (linux) proposto por Torvalds)
+
+- Permite identificar o responsável por mudanças e quando elas foram feitas
+
+- Permite a reversão de mudanças feitas e voltar a versões anteriores
+
+
