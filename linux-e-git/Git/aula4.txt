@@ -1,0 +1,52 @@
+## Aula 4 - 02/12/21
+
+
+Pontos a serem mencionados :
+
+Os ambientes de funcionamento do Git parecem complexos à primeira vista, por isso a importância em documentar seu funcionamento.
+
+
+1. Ao adicionar algum arquivo novo, o Git percebe a existência de um arquivo novo 'não-trackeado'.
+	- Com isso, podemos observar através de alguns comandos o comportamento do Git em cima desses arquivos.
+		- git status (vai apontar um arquivo novo não rastreado)
+		- git add .  OU git add nome_arquivo para transicionar do working directory para a staging area
+
+	- Após ser adicionado na staging area...
+		- Observar a mudança em 'git status'
+		- Podemos dar inicio ao famoso commit
+			- Podemos interpretar o commit como de fato uma mudança sendo feita e criando um 'checkpoint' no seu projeto, podendo retornar à esse estado à qualquer momento.
+
+Alguns comandos super importantes para ter em mente ao trabalhar com Git:
+
+git branch -a  (mostra todas as branchs criadas ativas)
+git branch nome (para criar uma nova branch)
+
+git checkout nome_branch (muda de branch)
+git checkout nome_branch 'HEAD ~1' (volta pra um commit atrás daquela branch. Não testei ainda, mas é necessário ter mais de um commit feito)
+
+git merge nome_branch (passa os arquivos da nome_branch para a branch atual)
+
+git reset ID (ID retirado do git log --oneline , para DESFAZER os commits depois do commit do ID. Os arquivos não são alterados.)
+git reset --hard ID (USE COM MUITA CAUTELA. ESSE COMANDO APAGA TAMBÉM O HISTÓRICO, arquivos e versões criadas)
+
+git revert ID (reverte tudo o que foi feito naquele commit em específico)
+
+git restore (para voltar antes das alterações : staging area -> working directory)
+
+git diff (mostrar as alterações entre o último commit e o que estou fazendo no momento)
+git show (mostra alterações entre commits)
+
+** Usar o comando cd ~/.ssh para localizar a chave SSH pra não ser blockado de usar o Git
+
+
+git push destino saída
+
+	- origin (remoto) - geralmente main (local)
+
+git pull origin main (joga as mudanças feitas para a branch atual. Atualiza tanto a main quanto a branch local) **** IMPORTANTE
+
+
+git remote -v (para verificar os ambientes remotos)
+
+
+
