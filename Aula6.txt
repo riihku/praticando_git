@@ -1,0 +1,7 @@
+Aula 6
+
+Apresentação da tarefa de relacionar o Git com GitHub
+
+Entendendo os comandos para lidar com as branchs remotas
+
+GitFlow e resolvendo conflitos.
