@@ -39,11 +39,9 @@ git show (mostra alterações entre commits)
 ** Usar o comando cd ~/.ssh para localizar a chave SSH pra não ser blockado de usar o Git
 
 
-git push destino saída
+git push origin main (manda as alterações feitas na branch que estiver para a que tiver escrito) -> Destino
 
-	- origin (remoto) - geralmente main (local)
-
-git pull origin main (joga as mudanças feitas para a branch atual. Atualiza tanto a main quanto a branch local) **** IMPORTANTE
+git pull origin main (pega as mudanças feitas no main remoto (origin main) para a branch atual que estiver)
 
 
 git remote -v (para verificar os ambientes remotos)
